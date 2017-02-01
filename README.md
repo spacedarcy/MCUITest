@@ -7,11 +7,11 @@ You’ve been commissioned to build DoveBox: a user interface for our latest flo
 * Displays a table of Doves on pageload, populated by the API
 * Has a Search component to query the API for Doves based on their properties, and displays results in the above-mentioned table.
 * Has a form to add new Doves to the database
+* Add another feature that incorporates the API in some way.
 
 ### Guidelines
 
 * You should use a flux-like architecture for managing state.
-* Add a feature not listed above that incorporates the API in some way.
 * You may import whatever React elements you wish.
 * Have fun!
 
