@@ -1,4 +1,4 @@
-Congratulations! You’ve been commissioned to create DoveWatcher.com , a new interface for our latest flock of doves. Our Space Captains will use DoveWatcher to control the doves (which are actually Earth-imaging satellites) in orbit. We’ve provided our advanced API and database to help you get started.
+Congratulations! You’ve been commissioned to create DoveBox.com , a new interface for our latest flock of doves. Our Space Captains will use DoveBox to control the doves (which are actually Earth-imaging satellites) in orbit. We’ve provided our advanced API and database to help you get started.
 
 Implement a React application that does the following:
 
