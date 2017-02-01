@@ -1,0 +1,15 @@
+{
+  "name": "dove-api",
+  "version": "0.0.1",
+  "description": "REST API to Dove information.",
+  "main": "./lib/server/index.js",
+  "bin": "./bin/index.js",
+  "dependencies": {
+      "json-server": "^0.9.4"
+  },
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "build": "babel src -d lib --copy-files",
+    "toc": "markdown-toc -i README.md"
+  }
+}
