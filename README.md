@@ -5,7 +5,7 @@ You’ve been commissioned to build DoveBox: a user interface for our latest flo
 ### Implement a React application that does the following:
 
 * Displays a table of Doves on pageload, populated by the API
-* Has a Search component(s) to query the API for Doves based on their properties, and displays results in the table above-mentioned table.
+* Has a Search component to query the API for Doves based on their properties, and displays results in the above-mentioned table.
 * Has a form to add new Doves to the database
 
 ### Guidelines
