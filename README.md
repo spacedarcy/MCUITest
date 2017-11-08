@@ -11,7 +11,7 @@ You’ve been commissioned to build DoveBox: a user interface for our latest flo
 
 ### Guidelines
 
-* You should use a flux-like architecture for managing state.
+* It is strongly suggested that you use a flux-like architecture for managing state.
 * You may import whatever React elements you wish.
 * Have fun!
 
