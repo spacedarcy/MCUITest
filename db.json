@@ -98,14 +98,14 @@
         "last_command": "Engage thrusters",
         "deorbit_dt": "2013-05-20T12:44:03Z"
     }, {
-        "id": "00",
+        "id": "flappy_dove",
         "active": false,
         "color": "#00FF55",
         "images_collected": 9001,
         "last_command": "fly!",
         "deorbit_dt": "2016-01-04T12:44:03Z"
     }, {
-        "id": "0A",
+        "id": "007",
         "active": false,
         "color": "#FF7F50",
         "images_collected": 19,
